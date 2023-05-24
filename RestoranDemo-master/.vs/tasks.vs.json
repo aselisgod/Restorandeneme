@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-frmMenu",
+      "appliesTo": "RestoranDemo-master/RestoranDemo/frmMenu.cs",
+      "type": "launch"
+    }
+  ]
+}
